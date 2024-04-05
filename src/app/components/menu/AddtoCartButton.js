@@ -4,7 +4,7 @@ export default function AddToCartButton({
 }) {
   if (!hasSizesOrExtras) {
     return (
-      <div className="flying-button-parent mt-4">
+      <div className="border-primary bg-primary text-white rounded-full mt-4">
         
           <div onClick={onClick}>
             Add to cart ${basePrice}
