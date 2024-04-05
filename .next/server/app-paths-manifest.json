@@ -1,6 +1,10 @@
 {
-  "/api/menu-items/route": "app/api/menu-items/route.js",
+  "/menu/page": "app/menu/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/menu-items/route": "app/api/menu-items/route.js",
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/api/profile/route": "app/api/profile/route.js"
 }

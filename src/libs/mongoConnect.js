@@ -7,7 +7,7 @@ if (!"mongodb+srv://subham:KfR0jVvk9bwPE8vY@cluster0.vznbg6c.mongodb.net/food-or
 const uri = "mongodb+srv://subham:KfR0jVvk9bwPE8vY@cluster0.vznbg6c.mongodb.net/food-ordering"
 const options = {}
 
-let client
+let client;
 let clientPromise;
 
 
